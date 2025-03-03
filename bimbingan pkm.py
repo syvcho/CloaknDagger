@@ -11,7 +11,7 @@ buatkan program perhitungan celcius ke fahrenheit, dan algoritma akan berhenti p
 #     else:
 #         break
 print ("keluar dari program")
-
+print ("keluar dari program")
 """Buat program yang meminta pengguna untuk memasukkan bilangan bulat positif. Program harus menjumlahkan semua bilangan genap dari 1 hingga bilangan yang dimasukkan"""
 
 # bilbul = int(input("Bilangan bulat positif = ")) # bilbul = 10
