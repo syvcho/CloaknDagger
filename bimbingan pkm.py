@@ -10,7 +10,7 @@ buatkan program perhitungan celcius ke fahrenheit, dan algoritma akan berhenti p
 #         print (f"Nilai {c} celcius = {f} fahrenheit")
 #     else:
 #         break
-# print ("keluar dari program")
+print ("keluar dari program")
 
 """Buat program yang meminta pengguna untuk memasukkan bilangan bulat positif. Program harus menjumlahkan semua bilangan genap dari 1 hingga bilangan yang dimasukkan"""
 
